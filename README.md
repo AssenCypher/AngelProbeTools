@@ -25,6 +25,7 @@ Free probe scaffolding toolkit for VRChat world creation under 2d Angel.
 
 ## Quick Links
 
+- ##[ALCOM/VCC ADD THIS](https://raw.githubusercontent.com/AssenCypher/2dAngel/main/index.json)
 - [Public GitHub Repository](https://github.com/AssenCypher/AngelProbeTools)
 - [VPM Listing Repository](https://github.com/AssenCypher/2dAngel)
 - [VPM Releases](https://github.com/AssenCypher/AngelProbeTools/releases)
@@ -32,18 +33,6 @@ Free probe scaffolding toolkit for VRChat world creation under 2d Angel.
 - [License](LICENSE.md)
 
 ---
-
-## Screenshots
-
-> Replace these paths after you upload final screenshots.
-
-```md
-![APT Main Window](docs/images/apt-main-window.png)
-![APT in AngelPanel](docs/images/apt-inside-ap.png)
-![APT Generation Settings](docs/images/apt-generation-settings.png)
-![APT Result Handling](docs/images/apt-result-handling.png)
-```
-
 ---
 
 # English
