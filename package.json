@@ -1,0 +1,32 @@
+{
+  "name": "com.2dangel.angelprobetools.core",
+  "displayName": "Angel Probe Tools",
+  "version": "0.12.2",
+  "unity": "2022.3",
+  "description": "Free probe scaffolding utility for VRChat world workflows under 2d Angel. Includes Reflection Probe generation, LightProbeGroup generation, bounds expansion, zone split/scaffold, and optional trigger scaffold generation.",
+  "author": {
+    "name": "E-Mommy"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.6"
+  },
+  "legacyFolders": {
+    "Assets/2dAngel/AngelProbeTools": ""
+  },
+  "keywords": [
+    "VRChat",
+    "Worlds",
+    "Editor",
+    "Angel Probe Tools",
+    "LightProbeGroup",
+    "Reflection Probe",
+    "2d Angel",
+    "AngelPanel"
+  ],
+  "url": "https://github.com/AssenCypher/AngelProbeTools/releases/download/v0.12.2/com.2dangel.angelprobetools.core.zip",
+  "changelogUrl": "https://github.com/AssenCypher/AngelProbeTools/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/AssenCypher/AngelProbeTools#readme",
+  "samples": []
+}
